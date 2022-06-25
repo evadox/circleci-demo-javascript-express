@@ -198,7 +198,7 @@ It contains a blueprints array. Each object in it is the config for a generator.
 }
 ```
 
-A file object contains
+A file object contains.
 
 1. `blueprint-path` - location of the blueprint file
 
